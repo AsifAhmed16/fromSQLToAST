@@ -1,0 +1,11 @@
+*.pyc
+env/
+.terraform
+.env
+staticfiles/
+postgres-data/
+.vscode
+celerybeat-schedule.db
+.python-version
+db.sqlite3
+TODO
